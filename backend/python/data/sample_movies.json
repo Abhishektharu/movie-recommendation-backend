@@ -1,0 +1,37 @@
+[
+  {
+    "movie_id": 550,
+    "title": "Fight Club",
+    "genres": ["Drama", "Thriller", "Mystery"],
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy.",
+    "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"]
+  },
+  {
+    "movie_id": 278,
+    "title": "The Shawshank Redemption",
+    "genres": ["Drama", "Crime"],
+    "overview": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"]
+  },
+  {
+    "movie_id": 680,
+    "title": "Pulp Fiction",
+    "genres": ["Thriller", "Crime"],
+    "overview": "The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption.",
+    "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"]
+  },
+  {
+    "movie_id": 155,
+    "title": "The Dark Knight",
+    "genres": ["Drama", "Action", "Crime", "Thriller"],
+    "overview": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests.",
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "movie_id": 13,
+    "title": "Forrest Gump",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "overview": "The presidencies of Kennedy and Johnson, the Vietnam War, and other historical events unfold from the perspective of an Alabama man.",
+    "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"]
+  }
+]
