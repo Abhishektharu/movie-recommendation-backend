@@ -1,0 +1,8 @@
+cd backend/python/
+python app.py
+
+cd backend/node 
+npm start 
+
+cd frontend 
+npx expo start
